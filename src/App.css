@@ -31,4 +31,5 @@
   display: grid;
   border-radius: 2rem;
   grid-template-columns: 12rem auto 20rem;
+  overflow: hidden;
 }
