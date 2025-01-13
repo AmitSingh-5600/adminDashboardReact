@@ -33,11 +33,11 @@ export const SidebarData = [
   },
   {
     icon: UilPackage,
-    heading: 'Products'
+    heading: "Products",
   },
   {
     icon: UilChart,
-    heading: 'Analytics'
+    heading: "Analytics",
   },
 ];
 
@@ -98,19 +98,19 @@ export const cardsData = [
 export const UpdatesData = [
   {
     img: img1,
-    name: "Andrew Thomas",
+    name: "Amit Singh",
     noti: "has ordered Apple smart watch 2500mh battery.",
     time: "25 seconds ago",
   },
   {
     img: img2,
-    name: "James Bond",
+    name: "Heeten Patel",
     noti: "has received Samsung gadget for charging battery.",
     time: "30 minutes ago",
   },
   {
     img: img3,
-    name: "Iron Man",
+    name: "Pavitra",
     noti: "has ordered Apple smart watch, samsung Gear 2500mh battery.",
     time: "2 hours ago",
   },
